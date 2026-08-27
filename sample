@@ -1,5 +1,4 @@
 print("Hello")
-PRINT(vmi ASSED)
 print("Second line from linux")
 x=10
-y=11
+y=10
