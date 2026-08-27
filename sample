@@ -1,0 +1,4 @@
+print("Hello")
+print("Second line from linux")
+x=10
+y=10
